@@ -1,0 +1,5 @@
+- `[x]` Copy 3D assets to Android project
+- `[x]` Create `Car.kt` (Physics and Logic)
+- `[x]` Create `InputManager.kt` (On-screen Controls)
+- `[x]` Modify `RallyGame.kt` (Game Loop, Rendering, Chase Cam)
+- `[x]` Run and Verify
